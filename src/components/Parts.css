@@ -1,0 +1,11 @@
+.partOne {
+  height: 20vh;
+  width: 100vw;
+  background: slategray;
+}
+
+.partTwo {
+  height: 20vh;
+  width: 100vw;
+  background: salmon;
+}

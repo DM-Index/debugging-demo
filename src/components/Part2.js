@@ -1,7 +1,13 @@
 import React, { Component } from 'react';
+import './Parts.css';
 
-export default class Part2 extends Component {
-  render() {
-    return <div>Part 2</div>;
-  }
+export default function Part2(props) {
+  // render() {
+  return (
+    <div className="partTwo">
+      <div>Part 2</div>
+      <div>{props.quote}</div>
+    </div>
+  );
+  // }
 }
