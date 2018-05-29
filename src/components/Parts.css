@@ -1,11 +1,17 @@
-.partOne {
+.partOne, .partTwo, .partThree, .partFour {
   height: 20vh;
   width: 100vw;
+  padding: 15px;
+}
+
+.partOne {
   background: slategray;
 }
 
 .partTwo {
-  height: 20vh;
-  width: 100vw;
   background: salmon;
+}
+
+.partThree {
+  background: #85E5B2;
 }

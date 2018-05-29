@@ -1,13 +1,13 @@
-import React, { Component } from 'react';
-import './Parts.css';
+// import React, { Component } from 'react';
+// import './parts.css';
 
-export default function Part2(props) {
-  // render() {
-  return (
-    <div className="partTwo">
-      <div>Part 2</div>
-      <div>{props.quote}</div>
-    </div>
-  );
-  // }
-}
+// export function Part2(props) {
+//   render() {
+//     return (
+//       <div class="partTwo">
+//         <h1>Part 2</h1>
+//         <div>{this.props.quote}</div>
+//       </div>
+//     );
+//   }
+// }
