@@ -25,5 +25,8 @@ PART 3:
 
 PART 4:
 
-1.  Part1.js - Lower case component name
-
+1.  Component must be capitalized.
+2.  "/" is in the wrong spot on the h1 closing tag.
+3.  Must bind handleInput method.
+4.  Method within render must be arrow function.
+5.  The prop value must be a number not a string.
